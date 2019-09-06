@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aitiexiquu.tml.ink/sitemap.xml
